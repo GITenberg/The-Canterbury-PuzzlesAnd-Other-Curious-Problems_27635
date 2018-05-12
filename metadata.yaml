@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6885
     wikipedia: http://en.wikipedia.org/wiki/Henry_Dudeney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27635#The-Canterbury-PuzzlesAnd-Other-Curious-Problems
 gutenberg_issued: '2008-12-27'
 gutenberg_type: Text
 identifiers:
