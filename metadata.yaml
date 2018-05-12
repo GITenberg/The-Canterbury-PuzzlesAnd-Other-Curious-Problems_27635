@@ -1,0 +1,29 @@
+_repo: The-Canterbury-PuzzlesAnd-Other-Curious-Problems_27635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dudeney, Henry Ernest
+    alias: Dudeney, H. E. (Henry Ernest)
+    birthdate: 1857
+    deathdate: 1930
+    gutenberg_agent_id: '6885'
+    url: http://www.gutenberg.org/2009/agents/6885
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Dudeney
+description: ''
+gutenberg_issued: '2008-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Puzzles'
+- !lcsh 'Riddles'
+title: The Canterbury Puzzles, and Other Curious Problems
+url: http://www.gutenberg.org/ebooks/27635
